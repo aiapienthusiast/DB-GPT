@@ -1,6 +1,6 @@
 # Cheaper Inference
 
-### [Cheaper Inference](https://cheaperinference.com) is an OpenAI-compatible LLM gateway that serves models from OpenAI, Anthropic, Google, DeepSeek, Z.ai, Moonshot, Qwen and others behind a single endpoint and API key.
+### [Cheaper Inference](https://cheaperinference.com) is an OpenAI-compatible LLM gateway that serves models from OpenAI, Anthropic, Google, DeepSeek, Z.ai, Moonshot, Qwen and others behind a single endpoint and API key. Each model costs 15–60% less than the list price of its lab.
 
 ### This section describes how to use the Cheaper Inference provider with DB-GPT.
 
